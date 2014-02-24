@@ -18,7 +18,7 @@
         android:ems="10" />
 
     <ListView
-        android:id="@+id/listView1"
+        android:id="@+id/myListView"
         android:layout_width="match_parent"
         android:layout_height="wrap_content" >
     </ListView>
